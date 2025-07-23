@@ -1,1 +1,1 @@
-<a href='https://dannyelgalvao.github.io/projeto-android/'>Clique aqui para visualizar meu projeto!</a>
+<a href='https://dannyelgalvao.github.io/projeto-android/' target='_blank'>Clique aqui para visualizar meu projeto!</a>
